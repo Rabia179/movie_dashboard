@@ -1,4 +1,5 @@
 # movie_dashboard
+<img width="443" height="1280" alt="WhatsApp Image 2026-08-28 at 2 00 38 PM (2)" src="https://github.com/user-attachments/assets/67cde8db-b9d2-4a7a-9557-4a5069c744eb" />
 
 A new Flutter project.
 
